@@ -1,0 +1,6 @@
+train: D:/Desktop/daima/data/yolo/train
+val: D:/Desktop/daima/data/yolo/test
+
+names:
+  0: blue
+  1: green
